@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marla-tumenjargal
 - 👀 I’m interested in learning new solutions to problems.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning React.js & Java.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me at tumearla@gmail.com
 
