@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Marla Tumenjargal and I am a current junior at Hillcrest High School looking to pursue computer science and machine learning!
 - 👀 I’m proficient in Java and Python. 
-- 🌱 I’m currently learning React.js, Swift, and HTML.
+- 🌱 I’m currently learning React.js, Swift, and Typescript.
 - 📫 How to reach me at tumearla@gmail.com
 
 <!---
