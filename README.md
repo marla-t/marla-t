@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @marla-tumenjargal
-- 👀 I’m interested in learning new solutions to problems.
-- 🌱 I’m currently learning React.js & Java.
-- 💞️ I’m looking to collaborate on programming.
+- 👋 Hello! My name is Marla Tumenjargal and I am a current junior at Hillcrest High School looking to pursue computer science and machine learning!
+- 👀 I’m proficient in Java and Python. 
+- 🌱 I’m currently learning React.js, Swift, and HTML.
 - 📫 How to reach me at tumearla@gmail.com
 
 <!---
